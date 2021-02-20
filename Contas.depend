@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558291160 source:c:\users\cliente\desktop\contas\main.cpp
+	<iostream>
+	<map>
+	<utility>
+
